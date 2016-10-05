@@ -1,0 +1,6 @@
+export SPARK_HOME=/home/hadoop/spark
+export PATH=$PATH:$JAVA_HOME/bin:$SCALA_HOME/bin
+
+export AWS_ACCESS_KEY_ID=
+export AWS_SECRET_ACCESS_KEY=
+
